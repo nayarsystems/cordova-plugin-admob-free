@@ -2,6 +2,8 @@
 
 A free, no ad-sharing version of Google AdMob plugin for Cordova.
 
+Modified to use forked cordova-admob-sdk that imports com.google.android.gms:play-services-ads version 11.0.1
+
 ## Features
 
 - **No Ad-Sharing**
