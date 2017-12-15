@@ -35,7 +35,10 @@
     ]
   },
   "homepage": "https://ratson.github.io/cordova-plugin-admob-free/",
-  "repository": "ratson/cordova-plugin-admob-free",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nayarsystems/cordova-plugin-admob-free"
+  },
   "keywords": [
     "cordova",
     "admob",
